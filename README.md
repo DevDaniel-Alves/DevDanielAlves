@@ -9,3 +9,4 @@ Estou estudando analise e desenvolvimento de sistemas<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DevDaniel-Alves&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDaniel-Alves&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![](https://visitcount.itsvg.in/api?id=Daniel&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
